@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/andypost-mcp-server-ts-trello-badge.png)](https://mseep.ai/app/andypost-mcp-server-ts-trello)
+
 # Trello MCP Server (TypeScript)
 
 A TypeScript implementation of a Model Context Protocol (MCP) server for Trello integration, providing tools for AI assistants to interact with Trello boards, lists, and cards.
